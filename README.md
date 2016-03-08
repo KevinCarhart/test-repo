@@ -20,8 +20,8 @@ in the form of a MOOC on a major MOOC-platform that starts with C.<BR>
 I feel dirty.<BR>
 You can just smell the commons being disrupted when you log into their thing.<BR>
 Maybe it's a mistake to even use it in the first place.<BR>
-As Phil Mirowski said, Facebook is training wheels that teaches you to be a neoliberal agent, and I feel the same about Coursera<BR>
-And the instructors are bringing up quotes in their lectures by people like Ronald Coase.<BR>
+As Phil Mirowski said, Facebook is training wheels that teaches you to be a neoliberal agent, and I resent my MOOC for doing something similar.<BR>
+The instructors are illustrating points by raising quotes from Ronald Coase.  And showing the cover of The Economist.<BR>
 Anyway, learning some "R" overlaps with what I do anyhow, so it may be a valuable kind of thing.<BR><BR>
 
 
