@@ -9,7 +9,9 @@ the great Tom Slee, who scraped data from the airbnb site and showed, with Murra
 Lux Leaks - Consortium of Investigative Journalists' great work<BR>
 Maplight<BR>
 Pro Publica<BR>
-maybe pursuing a certification in a damn buzzword with the initials D.S.  But it does indeed overlap with what I do anyhow.<BR>
+maybe pursuing a certification in a damn buzzword with the initials D.S. in the form of a neoliberal and privatized MOOC by faculty from a school with the initials J.H.<BR>
+I dislike Coursera but it's high quality for what it is, I guess.<BR>
+And learning "R" and doing some stats does indeed overlap with what I do anyhow.<BR>
 
 Muckrake Big Data, muckrake the Sharing Economy- don't take its spokesmen and ringmasters on their own terms<BR>
 And bring 1099 out of the memory hole - 1099 in drayage, 1099 in messengers & couriers, 1099 from new tech startups is<BR>
