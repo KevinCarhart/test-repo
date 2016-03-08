@@ -1,11 +1,13 @@
 # test-repo
 
-projects and motifs<BR>
+projects and motifs 20160307<BR>
 edbrowse - the command line browser project<BR>
 empire logistics - visualizing port-pairs on a map, and adding landside car location messages<BR>
 the "supply-chain infrastructure map" originally developed by Amiri using postgis, leaflet, tilestache, etc.<BR>
 the great Giannina Segnini and her use of shipping databases for the cocaine-smuggled-in-shark-fin article, and other stories<BR>
 the great Tom Slee, who scraped data from the airbnb site and showed, with Murray Cox, that airbnb lied through their teeth<BR>
+the great Richard Smith, revealing obviously fake company directors and other registrar fraud using things like opencorporates.com<BR>
+the great Yves Smith and her private equity stories showing how captured the limited partners are at places like CalPERS<BR>
 Lux Leaks - Consortium of Investigative Journalists' great work<BR>
 Maplight<BR>
 Pro Publica<BR>
